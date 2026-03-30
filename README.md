@@ -1,53 +1,53 @@
-# Hey, I'm Bhupendra 👋
+# Bhupendra Sharma
 
-I'm a 20-year-old BCA student, Python developer, and Video Engineering Architect building automated production pipelines that run seamlessly at scale. 
-
-I'm not here to just write code. I'm here to build systems that matter.
+> *AI Automation Engineer. I build systems that think, so people don't have to repeat themselves.*
 
 ---
 
 ## What I actually do
 
-I architect end-to-end AI pipelines for high-volume educational video production. Transcription, subtitle correction, FFmpeg rendering, and Adobe After Effects automation—everything connected, everything automated. If a task requires manual clicking, I engineer a workflow to eliminate it.
+I engineer AI-driven automation pipelines — the kind that take a workflow full of manual steps and collapse it into something that runs itself. My obsession is simple: **maximise throughput, minimise human input, never sacrifice output quality.**
 
-Currently, I'm shipping robust, scalable pipelines for **iGOT Karmayogi**, a national government training platform, processing heavy volumes of Hindi and Hinglish content built to last.
+Not tools. Not scripts. Pipelines — end-to-end, integrated, built to scale.
+
+Currently building production-grade systems for **iGOT Karmayogi**, a national government training platform. Hindi/Hinglish video at high volume. Every subtitle, every correction, every render — automated.
+
+---
+
+## How I think about architecture
+
+Most engineers pick their stack as they go. I don't.
+
+Before I write a single line, I map the major components, study the ceiling of each element, and design for how they'll integrate at full load. I build upward from a foundation I already understand — so when the system is under pressure, nothing surprises me.
+
+The goal is always a pipeline that flows. No friction between layers. No bottlenecks hiding in the integration.
+
+---
+
+## What I'm building toward
+
+AI should not be a privilege. The benefits of intelligent automation belong at the ground level — in industries that have never had access to them, in workflows that are still entirely manual, in the hands of people who don't know it's even possible yet.
+
+That's the direction. Every project I take on is a step toward it.
 
 ---
 
 ## Things I've built
 
-- **[AE-MCP](https://github.com/bittu101200/AE-MCP)** — A comprehensive After Effects MCP server for model-agnostic AE automation. Because navigating timelines manually isn't a pipeline; it's a bottleneck.
+- **[AE-MCP](https://github.com/bittu101200/AE-MCP)** — After Effects MCP server for model-agnostic AE automation. Because a render pipeline shouldn't require a human in the loop.
 
-- **Hinglish Subtitle Pipeline** — Whisper → Gemini correction → ASS/SRT output. Engineered from scratch to process complex, code-mixed audio that generic transcription tools completely fail to parse. 
+- **Hinglish Subtitle Pipeline** — Whisper → Gemini correction → ASS/SRT output. Built from scratch for code-mixed audio that generic transcription tools get wrong.
 
-- **SRT Correction Engine** — An LLM agentic loop with structured feedback ingestion (XLSX, PDF, DOCX) that delivers perfectly timed corrections without breaking timestamps.
-
----
-
-## How I think
-
-Systems first when it's technical. Story first when it's complex. 
-
-Whether I'm writing Python, compiling bootloaders for a Hackintosh build, or dissecting the technical limits of audio hardware, my approach is the same: I don't stop at the surface-level tool. I need to understand the underlying architecture and the entire stack. If a system breaks, I ensure I'm the one who knows exactly how to tear it down and fix it.
+- **SRT Correction Engine** — LLM agentic loop with structured feedback ingestion across XLSX, PDF, DOCX. Corrections applied without breaking timestamps.
 
 ---
 
-## What I'm aiming at
+## What I operate at
 
-Making AI genuinely useful in healthcare. Not as an overhyped product pitch, but as a tangible direction. Accessible, efficient, and real. 
+There is a certain intellectual level at which a problem stops being a problem and starts being a design challenge. That's where I try to live.
 
-That's the north star. Every pipeline I build right now is training for that.
-
----
-
-## A bit more honestly
-
-I'm 20. I don't have a massive portfolio piece I'm deeply proud of yet. But I do the work I actually want to do, and I'm quite proud of that.
-
-Ultimately, I believe the best thing you can leave behind is how you made people feel when they were around you. 
-
-I'm still working on deserving that.
+When everything is working — when the architecture is clean, the integration is seamless, and the pipeline is running — it feels like anything is solvable. That feeling is what I'm chasing.
 
 ---
 
-*Built in Bhopal. Thinking everywhere.*
+*Bhopal-based. Systems-oriented. Aimed at something bigger.*
