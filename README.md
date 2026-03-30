@@ -1,7 +1,3 @@
-Here is a rewritten version of your README. It takes the strong, authentic foundation you already wrote and sharpens it by weaving in your deeper technical curiosity—like your background in low-level system tweaking and understanding complex architectures—to make the "systems thinker" persona hit even harder.
-
-***
-
 # Hey, I'm Bhupendra 👋
 
 I'm a 20-year-old BCA student, Python developer, and Video Engineering Architect building automated production pipelines that run seamlessly at scale. 
