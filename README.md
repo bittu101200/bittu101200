@@ -8,11 +8,11 @@ Currently building production-grade systems for **iGOT Karmayogi**, a national g
 ---
 ## How I think about architecture
 Most engineers pick their stack as they go. I don't.
-Before I write a single line, I map the major components, study the ceiling of each element, and design for how they'll integrate at full load. I build upward from a foundation I already understand — so when the system is under pressure, nothing surprises me.
+Before I write a single line, I map the major components, study the ceiling of each element, and design for how they'll integrate at full load.
 The goal is always a pipeline that flows. No friction between layers. No bottlenecks hiding in the integration.
 ---
 ## What I'm building toward
-AI should not be a privilege. The benefits of intelligent automation belong at the ground level — in industries that have never had access to them, in workflows that are still entirely manual, in the hands of people who don't know it's even possible yet.
+AI should not be a privilege. The benefits of intelligent automation belong at the ground level — in industries that have never had access to them, in workflows that are still entirely manual.
 That's the direction. Every project I take on is a step toward it.
 ---
 ## Things I've built
@@ -22,6 +22,6 @@ That's the direction. Every project I take on is a step toward it.
 ---
 ## What I operate at
 There is a certain intellectual level at which a problem stops being a problem and starts being a design challenge. That's where I try to live.
-When everything is working — when the architecture is clean, the integration is seamless, and the pipeline is running — it feels like anything is solvable. That feeling is what I'm chasing.
+When everything is working — when the architecture is clean, the integration is seamless, and the pipeline is running — it feels like anything is solvable.
 ---
 *Bhopal-based. Systems-oriented. Aimed at something bigger.*
