@@ -1,27 +1,61 @@
 # Bhupendra Sharma
-> *AI Automation Engineer. I build systems that think, so people don't have to repeat themselves.*
+
+> *AI Automation Engineer building systems that remove repetitive work and make complex workflows run autonomously.*
+
 ---
-## What I actually do
-I engineer AI-driven automation pipelines — the kind that take a workflow full of manual steps and collapse it into something that runs itself. My obsession is simple: **maximise throughput, minimise human input, never sacrifice output quality.**
-Not tools. Not scripts. Pipelines — end-to-end, integrated, built to scale.
-Currently building production-grade systems for **iGOT Karmayogi**, a national government training platform. Hindi/Hinglish video at high volume. Every subtitle, every correction, every render — automated.
+
+## What I do
+
+I design and build AI-powered automation pipelines that turn manual, error-prone workflows into reliable systems.
+
+My focus is straightforward: **reduce human intervention, increase throughput, and preserve output quality at scale.**
+
+I work across speech, subtitles, media workflows, LLM-driven correction systems, and production automation — with an emphasis on building end-to-end pipelines rather than isolated scripts.
+
+Currently, I am building production-grade automation systems for **iGOT Karmayogi**, a national government learning platform, where Hindi and Hinglish video workflows need to operate accurately and at scale.
+
 ---
-## How I think about architecture
-Most engineers pick their stack as they go. I don't.
-Before I write a single line, I map the major components, study the ceiling of each element, and design for how they'll integrate at full load.
-The goal is always a pipeline that flows. No friction between layers. No bottlenecks hiding in the integration.
+
+## How I build
+
+I do not start with code. I start with system design.
+
+Before implementation, I map the moving parts, understand the limits of each component, and design around how they behave under real production load.
+
+That approach helps me build systems that are not only functional, but maintainable, scalable, and predictable when the pressure is real.
+
 ---
-## What I'm building toward
-AI should not be a privilege. The benefits of intelligent automation belong at the ground level — in industries that have never had access to them, in workflows that are still entirely manual.
-That's the direction. Every project I take on is a step toward it.
+
+## What I care about
+
+I care about practical automation that creates measurable value.
+
+Not automation for novelty.
+Not AI for presentation.
+But systems that save time, reduce operational friction, and make difficult workflows repeatable.
+
+I am especially interested in bringing intelligent automation into domains where high-quality execution is still heavily manual.
+
 ---
-## Things I've built
-- [AE-MCP](https://github.com/bittu101200/AE-MCP) — After Effects MCP server for model-agnostic AE automation. Because a render pipeline shouldn't require a human in the loop.
-- [Hinglish Subtitle Pipeline](https://github.com/bittu101200/hinglish-subtitle-pipeline) — Whisper → Gemini correction → ASS/SRT output. Built from scratch for code-mixed audio that generic transcription tools get wrong.
-- [Hindi Video Module Analyzer](https://github.com/bittu101200/hindi-video-module-analyzer) — AI-powered educational video analyzer with automatic module detection, visual cue generation, and voiceover creation using Deepgram, Gemini, and ElevenLabs.
+
+## Selected Projects
+
+- [AE-MCP](https://github.com/bittu101200/AE-MCP) — A model-agnostic After Effects MCP server for automation inside AE workflows, designed to remove manual intervention from rendering and compositing pipelines.
+
+- [Hinglish Subtitle Pipeline](https://github.com/bittu101200/hinglish-subtitle-pipeline) — An automated subtitle pipeline built for code-mixed Hindi-English audio using Whisper, Gemini-based correction, and ASS/SRT generation.
+
+- [Hindi Video Module Analyzer](https://github.com/bittu101200/hindi-video-module-analyzer) — An AI-powered educational video analysis system for module detection, visual cue generation, and voiceover creation using Deepgram, Gemini, and ElevenLabs.
+
 ---
-## What I operate at
-There is a certain intellectual level at which a problem stops being a problem and starts being a design challenge. That's where I try to live.
-When everything is working — when the architecture is clean, the integration is seamless, and the pipeline is running — it feels like anything is solvable.
+
+## Working Style
+
+I like systems that are clear, composable, and resilient.
+
+The best engineering, to me, is when complexity is handled in the design so the workflow feels simple in execution.
+
+That is the standard I try to build toward in every project.
+
 ---
-*Bhopal-based. Systems-oriented. Aimed at something bigger.*
+
+*Based in Bhopal, India. Focused on AI automation, media pipelines, and systems that scale.*
