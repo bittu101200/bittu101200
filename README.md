@@ -16,16 +16,12 @@ AI should not be a privilege. The benefits of intelligent automation belong at t
 That's the direction. Every project I take on is a step toward it.
 ---
 ## Things I've built
-- **[AE-MCP](https://github.com/bittu101200/AE-MCP)** — After Effects MCP server for model-agnostic AE automation. Because a render pipeline shouldn't require a human in the loop.
-- **[Hinglish Subtitle Pipeline](https://github.com/bittu101200/hinglish-subtitle-pipeline)** — Whisper → Gemini correction → ASS/SRT output. Built from scratch for code-mixed audio that generic transcription tools get wrong.
-- **[Hindi Video Module Analyzer](https://github.com/bittu101200/hindi-video-module-analyzer)** — AI-powered educational video analyzer with automatic module detection, visual cue generation, and voiceover creation using Deepgram, Gemini, and ElevenLabs.
+- [AE-MCP](https://github.com/bittu101200/AE-MCP) — After Effects MCP server for model-agnostic AE automation. Because a render pipeline shouldn't require a human in the loop.
+- [Hinglish Subtitle Pipeline](https://github.com/bittu101200/hinglish-subtitle-pipeline) — Whisper → Gemini correction → ASS/SRT output. Built from scratch for code-mixed audio that generic transcription tools get wrong.
+- [Hindi Video Module Analyzer](https://github.com/bittu101200/hindi-video-module-analyzer) — AI-powered educational video analyzer with automatic module detection, visual cue generation, and voiceover creation using Deepgram, Gemini, and ElevenLabs.
 ---
 ## What I operate at
 There is a certain intellectual level at which a problem stops being a problem and starts being a design challenge. That's where I try to live.
 When everything is working — when the architecture is clean, the integration is seamless, and the pipeline is running — it feels like anything is solvable. That feeling is what I'm chasing.
 ---
 *Bhopal-based. Systems-oriented. Aimed at something bigger.*
-Changes made:
-1. Hinglish Subtitle Pipeline — now linked to your actual repo
-2. SRT Correction Engine — removed (no corresponding repo found)
-3. Hindi Video Module Analyzer — added with link and description
